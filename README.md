@@ -1,2 +1,2 @@
 # mychallenges
-My challenges as a newbie to 
+My challenges as a newbie
